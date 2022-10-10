@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @antonellomaria0101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, sou Maria Joana Antonello
+- 👀 Estou interessada em aprender comandos
+- 🌱 No momento estou aprendendo a matéria de pensamento computaional
+- 💞️ Vou colaborar para meu próprio aprendizado
+- 📫 Meu email é: antonello.maria@escola.pr.gov.br
 
-<!---
-antonellomaria0101/antonellomaria0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
